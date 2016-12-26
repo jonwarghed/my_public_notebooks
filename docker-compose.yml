@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+  notebook:
+    build: .
+    volumes:
+      - ".:/opt/notebooks"
+    ports:
+      - "8888:8888"
