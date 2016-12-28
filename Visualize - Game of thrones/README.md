@@ -1,7 +1,7 @@
-This visualization is for showing the dataset found here:
+This visualization is for showing this [datase](https://www.kaggle.com/mylesoneill/game-of-thrones) with game 
+of thrones data.
 
-https://www.kaggle.com/mylesoneill/game-of-thrones
-Download it and place the zip file in the folder before rereunning the notebook
+Download it and unzip file in the folder before rerunning the notebook
 
 The problem posed in the challenge is:
 
